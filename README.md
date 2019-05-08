@@ -11,6 +11,7 @@ Can be used in interactive mode for all options, or headless mode (--head) which
 # Output
   - csv - CSV
   - sql - SQLite Database
+  - txt - txt file of the data in a more readable format
   
 # Platform Options (-p)
   - iOS
