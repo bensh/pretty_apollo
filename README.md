@@ -13,13 +13,13 @@ Can be used in interactive mode for all options, or headless mode (--head) which
   - sql - SQLite Database
   - txt - txt file of the data in a more readable format
   
-# Platform Options (-p)
+# Platform  
   - iOS
   - Mac
   - Yolo - Parse everything
 
-# Version Options (-v)
-  - iOS 8, 9, 10, 11, 12
+# iOS Version 
+  - 8, 9, 10, 11, 12 - iOS versions
   - Yolo - Parse everything
   
 # Credits
